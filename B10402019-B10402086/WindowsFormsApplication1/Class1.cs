@@ -11,7 +11,8 @@ namespace WindowsFormsApplication1
         public int GetNumber()
         {
             Random rand = new Random();
-            return rand.Next(0, 99);
+            int number = rand.Next(0, 99);
+            return number;
         }   
     }
 }

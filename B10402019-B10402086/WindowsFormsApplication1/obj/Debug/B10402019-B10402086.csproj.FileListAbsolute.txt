@@ -1,0 +1,3 @@
+C:\Users\Kai\Documents\GitHub\B10402019-B10402086\B10402019-B10402086\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kai\Documents\GitHub\B10402019-B10402086\B10402019-B10402086\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Kai\Documents\GitHub\B10402019-B10402086\B10402019-B10402086\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
